@@ -1,4 +1,3 @@
-Readme · MD
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=230&section=header&text=Speeziq&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Developer%20%7C%20Reverse%20Engineer&descAlignY=60&descSize=20&descColor=cfcfcf" width="100%" alt="header"/>
 <a href="https://git.io/typing-svg">
@@ -12,15 +11,10 @@ Readme · MD
 </div>
 ---
  
-## root@speeziq:~# cat about.txt
- 
 <div align="center">
-  <img src="assets/about.svg" width="100%" alt="About"/>
+  <img src="assets/about.svg" width="620" alt="About"/>
 </div>
----
- 
-## root@speeziq:~# ls skills/
- 
+<br/>
 <div align="center">
 <img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -43,14 +37,11 @@ Readme · MD
 <img src="https://img.shields.io/badge/Radare2-222222?style=for-the-badge" alt="Radare2"/>
 <br/><br/>
  
-<img src="assets/skills.svg" width="100%" alt="Core Expertise"/>
+<img src="assets/skills.svg" width="620" alt="Core Expertise"/>
 </div>
----
- 
-## root@speeziq:~# ./what_i_do.sh
- 
+<br/>
 <div align="center">
-  <img src="assets/mission.svg" width="100%" alt="Mission"/>
+  <img src="assets/mission.svg" width="620" alt="Mission"/>
 </div>
 ---
  
@@ -87,7 +78,7 @@ Readme · MD
 ---
  
 <div align="center">
-<img src="assets/disclaimer.svg" width="100%" alt="Disclaimer"/>
+<img src="assets/disclaimer.svg" width="620" alt="Disclaimer"/>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=640&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22;%22Security+is+a+process%2C+not+a+product.%22;%22Every+binary+tells+a+story.%22" alt="Quotes"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4d4d,100:000000&height=120&section=footer" width="100%" alt="footer"/>
