@@ -45,15 +45,9 @@
 </div>
 ---
  
-## Areas of Focus
- 
-- **Reconnaissance & OSINT**: information gathering and attack surface mapping
-- **Web Application Pentesting**: OWASP Top 10, authentication, access control, injection flaws
-- **Network & Infrastructure Testing**: service enumeration, misconfigurations, privilege escalation paths
-- **Reverse Engineering**: static and dynamic binary analysis, disassembly, debugging, understanding program internals
-- **Software Development**: building clean, secure and well-tested software in C/C++, Python and PHP
-- **Security Tooling**: custom scripts and tools in Python and C/C++
-- **Reporting**: clear, actionable findings with remediation guidance
+<div align="center">
+  <img src="assets/focus.svg" width="620" alt="Areas of Focus"/>
+</div>
 ---
  
 ## GitHub Stats
