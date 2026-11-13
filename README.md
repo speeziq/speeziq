@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=230&section=header&text=SPEEZIQ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Red%20Team%20Operator%20%7C%20Reverse%20Engineer&descAlignY=60&descSize=20&descColor=cfcfcf" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=230&section=header&text=Speeziq&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Developer%20%7C%20Reverse%20Engineer&descAlignY=60&descSize=20&descColor=cfcfcf" width="100%" alt="header"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=%3E+whoami+%3E%3E+Ethical+Hacker;%3E+Penetration+Tester+%26+Red+Team+Operator;%3E+Reverse+Engineering+%26+Binary+Analysis;%3E+C+%2F+C%2B%2B+%7C+Python+%7C+PHP;%3E+Think+like+an+attacker.+Defend+like+a+pro." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=%3E+whoami+%3E%3E+Ethical+Hacker;%3E+Penetration+Tester+%26+Developer;%3E+Reverse+Engineering+%26+Binary+Analysis;%3E+C+%2F+C%2B%2B+%7C+Python+%7C+PHP;%3E+Think+like+an+attacker.+Defend+like+a+pro." alt="Typing SVG" />
 </a>
 <br/><br/>
  
-<img src="https://komarev.com/ghpvc/?username=speeziq&label=PROFILE%20VIEWS&color=222222&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=speeziq&label=Profile%20Views&color=222222&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/speeziq?style=for-the-badge&logo=github&color=222222&labelColor=000000" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/speeziq?style=for-the-badge&logo=github&color=222222&labelColor=000000" alt="Stars"/>
 </div>
@@ -18,8 +18,8 @@
 └─$ cat about.txt
  
 [+] Name       : speeziq
-[+] Role       : Ethical Hacker / Red Team Operator
-[+] Focus      : Penetration Testing, Reverse Engineering, Adversary Simulation
+[+] Role       : Ethical Hacker / Developer
+[+] Focus      : Penetration Testing, Reverse Engineering, Software Development
 [+] Languages  : C/C++ | Python | PHP
 [+] Mindset    : Think like an attacker, defend like a professional
 [+] Status     : Always learning. Always hunting.
@@ -56,7 +56,7 @@
 Penetration Testing        [##################--]  90%
 Python Scripting           [##################--]  92%
 Web Application Security   [#################---]  88%
-Red Team Operations        [#################---]  85%
+Software Development       [#################---]  85%
 Reverse Engineering        [################----]  82%
 PHP (Web Security)         [################----]  82%
 C / C++ (Low-level)        [################----]  80%
@@ -70,14 +70,14 @@ C / C++ (Low-level)        [################----]  80%
 class EthicalHacker:
     def __init__(self):
         self.name = "speeziq"
-        self.role = ["Penetration Tester", "Red Team Operator", "Reverse Engineer"]
+        self.role = ["Penetration Tester", "Developer", "Reverse Engineer"]
         self.languages = ["C", "C++", "Python", "PHP"]
         self.code_of_ethics = "Authorized testing only. Always."
  
     def mission(self):
         return [
             "Find vulnerabilities before the bad guys do",
-            "Simulate real-world adversaries",
+            "Test systems the way real attackers would",
             "Analyze binaries to understand how software really works",
             "Write security tools and automation",
             "Share knowledge with the community",
@@ -94,7 +94,7 @@ print(me.mission())
 - **Reconnaissance & OSINT**: information gathering and attack surface mapping
 - **Web Application Pentesting**: OWASP Top 10, authentication, access control, injection flaws
 - **Network & Infrastructure Testing**: service enumeration, misconfigurations, privilege escalation paths
-- **Red Team Operations**: adversary emulation, MITRE ATT&CK mapping, reporting
+- **Software Development**: building clean, secure and well-tested software in C/C++, Python and PHP
 - **Reverse Engineering**: static and dynamic binary analysis, disassembly, debugging, understanding program internals
 - **Security Tooling**: custom scripts and tools in Python and C/C++
 - **Reporting**: clear, actionable findings with remediation guidance
@@ -126,11 +126,10 @@ print(me.mission())
  
 <div align="center">
 ```bash
-[!] DISCLAIMER: All my work is for educational purposes and authorized security testing only.
+[!] Disclaimer: All my work is for educational purposes and authorized security testing only.
 [!] Hack ethically. Respect the law. Stay legal.
 ```
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=640&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22;%22Security+is+a+process%2C+not+a+product.%22;%22Every+binary+tells+a+story.%22" alt="Quotes"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4d4d,100:000000&height=120&section=footer" width="100%" alt="footer"/>
 </div>
- 
