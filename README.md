@@ -41,7 +41,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="assets/mission.svg" width="620" alt="Mission"/>
+  <img src="assets/mission-v2.svg" width="620" alt="Mission"/>
 </div>
 ---
  
@@ -50,14 +50,10 @@
 </div>
 ---
  
-## GitHub Stats
- 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=speeziq&theme=dark&hide_border=false&border=444444&background=000000&stroke=444444&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=cfcfcf&dates=9e9e9e" alt="Streak Stats"/>
 </div>
 ---
- 
-## Connect With Me
  
 <div align="center">
 <a href="https://github.com/speeziq"><img src="https://img.shields.io/badge/GitHub-speeziq-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -77,3 +73,4 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=640&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22;%22Security+is+a+process%2C+not+a+product.%22;%22Every+binary+tells+a+story.%22" alt="Quotes"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4d4d,100:000000&height=120&section=footer" width="100%" alt="footer"/>
 </div>
+ 
