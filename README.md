@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/github/followers/speeziq?style=for-the-badge&logo=github&color=222222&labelColor=000000" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/speeziq?style=for-the-badge&logo=github&color=222222&labelColor=000000" alt="Stars"/>
 </div>
+
 ---
  
 <div align="center">
@@ -43,17 +44,23 @@
 <div align="center">
   <img src="assets/mission.svg" width="620" alt="Mission"/>
 </div>
+
 ---
+
  
 <div align="center">
   <img src="assets/focus.svg" width="620" alt="Areas of Focus"/>
 </div>
+
 ---
+
  
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=speeziq&theme=dark&hide_border=false&border=444444&background=000000&stroke=444444&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=cfcfcf&dates=9e9e9e" alt="Streak Stats"/>
 </div>
+
 ---
+
  
 <div align="center">
 <a href="https://github.com/speeziq"><img src="https://img.shields.io/badge/GitHub-speeziq-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -65,6 +72,7 @@
 -->
  
 </div>
+
 ---
  
 <div align="center">
