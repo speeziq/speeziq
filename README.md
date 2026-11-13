@@ -1,3 +1,4 @@
+Readme · MD
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=230&section=header&text=Speeziq&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Developer%20%7C%20Reverse%20Engineer&descAlignY=60&descSize=20&descColor=cfcfcf" width="100%" alt="header"/>
 <a href="https://git.io/typing-svg">
@@ -13,18 +14,9 @@
  
 ## root@speeziq:~# cat about.txt
  
-```bash
-┌──(speeziq@kali)-[~]
-└─$ cat about.txt
- 
-[+] Name       : speeziq
-[+] Role       : Ethical Hacker / Developer
-[+] Focus      : Penetration Testing, Reverse Engineering, Software Development
-[+] Languages  : C/C++ | Python | PHP
-[+] Mindset    : Think like an attacker, defend like a professional
-[+] Status     : Always learning. Always hunting.
-```
- 
+<div align="center">
+  <img src="assets/about.svg" width="100%" alt="About"/>
+</div>
 ---
  
 ## root@speeziq:~# ls skills/
@@ -49,44 +41,17 @@
 <img src="https://img.shields.io/badge/GDB-222222?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB"/>
 <img src="https://img.shields.io/badge/x64dbg-222222?style=for-the-badge" alt="x64dbg"/>
 <img src="https://img.shields.io/badge/Radare2-222222?style=for-the-badge" alt="Radare2"/>
+<br/><br/>
+ 
+<img src="assets/skills.svg" width="100%" alt="Core Expertise"/>
 </div>
-### Core Expertise
- 
-```text
-Penetration Testing        [##################--]  90%
-Python Scripting           [##################--]  92%
-Web Application Security   [#################---]  88%
-Software Development       [#################---]  85%
-Reverse Engineering        [################----]  82%
-PHP (Web Security)         [################----]  82%
-C / C++ (Low-level)        [################----]  80%
-```
- 
 ---
  
 ## root@speeziq:~# ./what_i_do.sh
  
-```python
-class EthicalHacker:
-    def __init__(self):
-        self.name = "speeziq"
-        self.role = ["Penetration Tester", "Developer", "Reverse Engineer"]
-        self.languages = ["C", "C++", "Python", "PHP"]
-        self.code_of_ethics = "Authorized testing only. Always."
- 
-    def mission(self):
-        return [
-            "Find vulnerabilities before the bad guys do",
-            "Test systems the way real attackers would",
-            "Analyze binaries to understand how software really works",
-            "Write security tools and automation",
-            "Share knowledge with the community",
-        ]
- 
-me = EthicalHacker()
-print(me.mission())
-```
- 
+<div align="center">
+  <img src="assets/mission.svg" width="100%" alt="Mission"/>
+</div>
 ---
  
 ## Areas of Focus
@@ -94,8 +59,8 @@ print(me.mission())
 - **Reconnaissance & OSINT**: information gathering and attack surface mapping
 - **Web Application Pentesting**: OWASP Top 10, authentication, access control, injection flaws
 - **Network & Infrastructure Testing**: service enumeration, misconfigurations, privilege escalation paths
-- **Software Development**: building clean, secure and well-tested software in C/C++, Python and PHP
 - **Reverse Engineering**: static and dynamic binary analysis, disassembly, debugging, understanding program internals
+- **Software Development**: building clean, secure and well-tested software in C/C++, Python and PHP
 - **Security Tooling**: custom scripts and tools in Python and C/C++
 - **Reporting**: clear, actionable findings with remediation guidance
 ---
@@ -103,9 +68,6 @@ print(me.mission())
 ## GitHub Stats
  
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=speeziq&show_icons=true&hide_border=false&border_color=444444&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cfcfcf" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speeziq&layout=compact&hide_border=false&border_color=444444&bg_color=000000&title_color=ffffff&text_color=cfcfcf" alt="Top Languages"/>
-<br/>
 <img src="https://streak-stats.demolab.com?user=speeziq&theme=dark&hide_border=false&border=444444&background=000000&stroke=444444&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=cfcfcf&dates=9e9e9e" alt="Streak Stats"/>
 </div>
 ---
@@ -125,11 +87,8 @@ print(me.mission())
 ---
  
 <div align="center">
-```bash
-[!] Disclaimer: All my work is for educational purposes and authorized security testing only.
-[!] Hack ethically. Respect the law. Stay legal.
-```
- 
+<img src="assets/disclaimer.svg" width="100%" alt="Disclaimer"/>
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=640&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22;%22Security+is+a+process%2C+not+a+product.%22;%22Every+binary+tells+a+story.%22" alt="Quotes"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4d4d,100:000000&height=120&section=footer" width="100%" alt="footer"/>
 </div>
