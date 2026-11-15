@@ -41,7 +41,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="assets/mission-v2.svg" width="620" alt="Mission"/>
+  <img src="assets/mission.svg" width="620" alt="Mission"/>
 </div>
 ---
  
