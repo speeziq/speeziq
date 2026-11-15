@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=230&section=header&text=Speeziq&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Reverse%20Engineer%20%7C%20Security%20Researcher&descAlignY=60&descSize=20&descColor=cfcfcf" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=230&section=header&text=Speeziq&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Reverse%20Engineer%20%7C%20Security%20Researcher&descAlignY=70&descSize=20&descColor=cfcfcf" width="100%" alt="header"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=%3E+whoami+%3E%3E+Reverse+Engineer;%3E+Security+Researcher;%3E+Reverse+Engineering+%26+Binary+Analysis;%3E+C+%2F+C%2B%2B+%7C+Python+%7C+PHP;%3E+Think+like+an+attacker.+Defend+like+a+pro." alt="Typing SVG" />
 </a>
@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/github/followers/speeziq?style=for-the-badge&logo=github&color=222222&labelColor=000000" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/speeziq?style=for-the-badge&logo=github&color=222222&labelColor=000000" alt="Stars"/>
 </div>
+
 ---
  
 <div align="center">
@@ -41,18 +42,22 @@
 </div>
 <br/>
 <div align="center">
-  <img src="assets/mission.svg" width="620" alt="Mission"/>
+  <img src="assets/mission-v2.svg" width="620" alt="Mission"/>
 </div>
+
 ---
  
 <div align="center">
   <img src="assets/focus.svg" width="620" alt="Areas of Focus"/>
 </div>
+
 ---
+
  
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=speeziq&theme=dark&hide_border=false&border=444444&background=000000&stroke=444444&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=cfcfcf&dates=9e9e9e" alt="Streak Stats"/>
 </div>
+
 ---
  
 <div align="center">
@@ -65,6 +70,7 @@
 -->
  
 </div>
+
 ---
  
 <div align="center">
