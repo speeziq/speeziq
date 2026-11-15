@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=230&section=header&text=Speeziq&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Reverse%20Engineer%20%7C%20Security%20Researcher%20%7C%20Developer&descAlignY=60&descSize=20&descColor=cfcfcf" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=230&section=header&text=Speeziq&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Reverse%20Engineer%20%7C%20Security%20Researcher&descAlignY=60&descSize=20&descColor=cfcfcf" width="100%" alt="header"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=%3E+whoami+%3E%3E+Reverse+Engineer;%3E+Security+Researcher+%26+Developer;%3E+Reverse+Engineering+%26+Binary+Analysis;%3E+C+%2F+C%2B%2B+%7C+Python+%7C+PHP;%3E+Think+like+an+attacker.+Defend+like+a+pro." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=%3E+whoami+%3E%3E+Reverse+Engineer;%3E+Security+Researcher;%3E+Reverse+Engineering+%26+Binary+Analysis;%3E+C+%2F+C%2B%2B+%7C+Python+%7C+PHP;%3E+Think+like+an+attacker.+Defend+like+a+pro." alt="Typing SVG" />
 </a>
 <br/><br/>
  
@@ -73,4 +73,3 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=640&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22;%22Security+is+a+process%2C+not+a+product.%22;%22Every+binary+tells+a+story.%22" alt="Quotes"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4d4d,100:000000&height=120&section=footer" width="100%" alt="footer"/>
 </div>
- 
